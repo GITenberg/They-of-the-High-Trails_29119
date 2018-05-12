@@ -1,0 +1,30 @@
+_repo: They-of-the-High-Trails_29119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: ''
+gutenberg_issued: '2009-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+tableOfContents: The grub-staker -- The cow-boss -- The remittance man -- The lonesome
+  man -- The trail tramp -- The prospector -- The outlaw -- The leaser -- The forest
+  ranger.
+title: They of the High Trails
+url: http://www.gutenberg.org/ebooks/29119
